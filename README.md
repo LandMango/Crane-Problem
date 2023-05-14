@@ -3,6 +3,11 @@
 # Spring 2023
 # Instructor: Himani Tawade
 
+# Submission:
+Name: Alexander Ha
+Email: xela.ah2000@gmail.com 
+Student Email: studentAlexander123@csu.fullerton.edu
+
 **Clone This repository into your repository and implement the code, along with a document with required details mentioned at the last, a demo video, readme file and .gitignore file. Submission will be a git repo link with all the requirements updated to repo on canvas.**
 
 # Abstract
